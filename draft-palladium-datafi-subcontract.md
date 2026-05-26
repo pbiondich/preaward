@@ -62,7 +62,7 @@ Most toolkits in global health sit on shelves. The most influential frameworks a
 3. **Create shared language that coordinates action.** The six dimensions must become verbs used in meetings, strategy documents, and transition plans. The toolkit will map directly to existing donor mechanisms (ie GHSD COP documents, Global Fund CCM notes, World Bank IDA projects) so it embeds in workflows countries already use.
 4. **Build deployment into the product.** We believe that GHSD currently has no dedicated technical team for this. Rather than rely on consultants, we intend for this toolkit to ultimately ship with: a facilitation guide any TA partner can use to run a 2-day workshop; validation through the eHealth Leaders Forum (EHLF) as a launch pad; and a simple digital self-assessment (Google Sheet or lightweight web app) so any country team can assess themselves without a consultant.
 
- Primary Audiences
+Primary Audiences
 
 - **Country Governments** — The toolkit's primary beneficiary and intended user. A practical framework for ministries of health to proactively lead the transition process, negotiate equitable terms with partners, and build sustained capacity to direct their digital health agenda independently of donor cycles. Everything in the toolkit is designed from this vantage point.
 - **State Department** — A framework that makes country ownership measurable and actionable, giving GORs and activity leads a credible basis to hold partners accountable and demonstrate the return on investment in country systems.
