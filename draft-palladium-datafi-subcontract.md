@@ -76,7 +76,7 @@ Deliverables
 Rather than a single document, the toolkit will be a coordinated suite:
 
 - **A. The Spectrum: **One-page visual assessment tool
-- **B. The Playbook** — For each dimension, what a transition looks like in practice, with 6–12 month milestones
+- **B. The Playbook:**For each dimension, what a transition looks like in practice, with 6–12 month milestones
 - **C. The Facilitation Guide** — Workshop-in-a-box that any TA partner can run tomorrow
 
 The Spectrum and Playbook are the content. The Facilitation Guide is the deployment mechanism. Without the third, the first two sit on a shelf.
