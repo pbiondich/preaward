@@ -75,7 +75,7 @@ A critical design principle: while this is a State Department publication, its n
 Deliverables
 Rather than a single document, the toolkit will be a coordinated suite:
 
-- **A. The Spectrum** — One-page visual assessment tool (the artifact that travels)
+- **A. The Spectrum** One-page visual assessment tool (the artifact that travels)
 - **B. The Playbook** — For each dimension, what a transition looks like in practice, with 6–12 month milestones
 - **C. The Facilitation Guide** — Workshop-in-a-box that any TA partner can run tomorrow
 
