@@ -44,9 +44,13 @@ Proposed Scope
 GHI will lead the development of a toolkit that:
 
 1. Defines country ownership of digital health systems across multiple dimensions: governance, infrastructure, financial sustainability, human capacity, and data sovereignty.
-2. Establishes a maturity framework to assess current state vs. target state.
-3. Provides a transition planning guide for partners to responsibly exit within bilateral agreement timeframes.
-4. Includes practical tools for stakeholder alignment, roadmap development, and progress tracking.
+
+
+&#8203;
+
+1. Establishes a maturity framework to assess current state vs. target state.
+2. Provides a transition planning guide for partners to responsibly exit within bilateral agreement timeframes.
+3. Includes practical tools for stakeholder alignment, roadmap development, and progress tracking.
 
 The toolkit will build on existing work — including materials from PATH, Digital Square, and Netsanet Nigussie's previously State Department-approved concept note — to avoid duplication and leverage proven approaches.
 
