@@ -25,7 +25,7 @@ Now bilateral agreements mandate that these systems transition to local ownershi
 
 The HOP25 Data.FI mechanism (Component 1: Rapid Transition to Local Partners) addresses one side of this challenge: a maturity model for transitioning local organizations from subrecipients to primary implementers. This is necessary and well-designed, but it reflects the implementer's side only. The receiving side remains unaddressed: what does it mean for a government to own, govern, and sustain a system it did not build? How does a partner plan an exit that leaves real institutional capability behind, not just source code on a flash drive?
 
-This concept note describes a Digital Health Country Ownership Toolkit that closes that gap. It is a shared framework — one artifact, two use cases — in which both sides assess themselves on the same dimensions, find each other, and plan a transition that works for both. It does not replace Component 1. It completes it.
+This concept note describes a Digital Health Country Ownership Toolkit that closes that gap. It is a shared framework one artifact, two use cases — in which both sides assess themselves on the same dimensions, find each other, and plan a transition that works for both. It does not replace Component 1. It completes it.
 
 Palladium/Data.FI identified this need directly through its work in Ethiopia and other countries. They have asked the Global Health Informatics (GHI) program at Regenstrief Institute to lead development of the toolkit as a State Department publication that operationalizes the transition process and equips all stakeholders with a shared framework.
 
