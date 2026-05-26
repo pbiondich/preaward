@@ -32,7 +32,7 @@ Palladium/Data.FI and the Global Health Informatics (GHI) program at the Regenst
 ---
 
 The Problem: What Does Country Ownership Mean?
-Data.FI's scope in Ethiopia indicated 95% of digital health systems were already transitioning to government ownership — but this figure was unquantified. There is currently no shared definition of what ownership means:
+
 
 - Is ownership about hosting infrastructure?
 - Is it about governance and decision-making authority?
