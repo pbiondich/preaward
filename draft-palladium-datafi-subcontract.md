@@ -84,7 +84,7 @@ Rather than a single document, the toolkit will be a coordinated suite:
 
 Process & Timeline — May to September 2026
 - Weeks 1–2: Concept note finalization, stakeholder mapping, review of existing materials (PATH, Digital Square, Netsanet's prior concept note)
-- Weeks 3–4: Stakeholder consultation design and initial engagements — Ethiopia as first use case
+- Weeks 3–4: Stakeholder consultation design and initial engagements — sel as first use case
 - Weeks 5–8: Toolkit development and iterative review with Palladium/Data.FI and State Department activity lead
 - Weeks 9–12: Stakeholder validation, refinement, pilot application in at least one country
 - Weeks 13–16: Finalization, State Department clearance, virtual launch
