@@ -14,14 +14,14 @@ Files in this repo can be edited collaboratively via [Colibri](https://app.get-c
 
 ```
 GitHub:    https://github.com/pbiondich/preaward/blob/main/FILENAME.md
-Colibri:   https://app.get-colibri.com/?room_id=github.com/pbiondich/preaward/blob/main/FILENAME.md
+Colibri:   https://tuneithub.com/pbiondich/preaward/blob/main/FILENAME.md
 ```
 
-Replace `github.com` with `app.get-colibri.com/?room_id=github.com` — that's it.
+Just change `github.com` to `tuneithub.com`. That's it.
 
 | File | Colibri Link |
 |------|-------------|
-| Palladium DataFI Subcontract | [Open](https://app.get-colibri.com/?room_id=github.com/pbiondich/preaward/blob/main/draft-palladium-datafi-subcontract.md)
+| Palladium DataFI Subcontract | [Open](https://tuneithub.com/pbiondich/preaward/blob/main/draft-palladium-datafi-subcontract.md)
 
 ## Purpose
 
