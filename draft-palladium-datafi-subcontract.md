@@ -57,7 +57,7 @@ The toolkit will build on existing work to avoid duplication and leverage proven
 
 ### Why This Toolkit Will Be Different
 
-Most toolkits in global health sit on shelves. The most influential frameworks across history, from the OODA loop to the Business Model Canvas to the Agile Manifesto — share four properties that this toolkit is designed to mirror:
+Most toolkits in global health sit on shelves. The most influential frameworks across history, from the OODA loop to the Business Model Canvas to the Agile Manifesto, share four properties that this toolkit is designed to mirror:
 
 1. **One page, not a document.** The artifact that travels is the Country Ownership Spectrum — a single visual with six axes (Financial, Technical, Governance, Data, Procurement, Political), each on a 1–5 maturity scale. A country team plots themselves, gets a radar chart, and walks out with something they can pin on a wall and use in their next donor meeting. The rest of the toolkit is the user manual for that one page.
 2. **Solve an acute pain.** The pain is already clear: Data.FI was told 95% of systems were "transitioning" but nobody could define what that meant. Implementing partners cannot plan for an undefined target. Countries cannot demand what they cannot articulate. State cannot hold anyone accountable. The toolkit's job is not to be comprehensive — it is to give every stakeholder a single answer to "are we there yet?" on each dimension.
