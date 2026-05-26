@@ -46,7 +46,16 @@ GHI will lead the development of a toolkit that:
 1. Defines country ownership of digital health systems across multiple dimensions: governance, infrastructure, financial sustainability, human capacity, and data sovereignty.
 
 
-&#8203;
+The toolkit should operationalize country ownership across six actionable dimensions, each with a current-state vs. target-state assessment:
+
+1. **Financial Ownership** — Countries funding their own digital health line items rather than relying on donor project budgets. Currently most systems run on PEPFAR, Global Fund, or USAID project budgets with expiration dates. Real ownership means ministry budget lines, pooled domestic financing, and transition plans with actual fiscal timelines — not just a handover date.
+2. **Technical Ownership** — Do countries have the in-house architecture authority and engineering capacity to sustain and evolve their systems? Currently source code is often handed over on a flash drive when a contractor leaves, built with tools nobody in country knows. Ownership means open standards, documented architecture, and local talent pipelines.
+3. **Governance Ownership** — Who sets the roadmap, prioritizes features, and approves standards? Currently donors and implementing partners define the trajectory through RFPs and scoping documents; country officials sign off but did not author. Real ownership means ministry-led technical working groups, national digital health strategies that drive investment, and regulatory authority over the ecosystem.
+4. **Data Ownership** — Who controls access, determines use cases, and benefits from the data? Currently data flows upward to donor reporting requirements; countries see aggregate dashboards but do not control the data architecture. Ownership means national data sovereignty frameworks, the ability to refuse data requests, and infrastructure to use their own data for their own priorities.
+5. **Procurement Ownership** — Can the government independently specify, procure, and oversee digital health systems? Currently donors bundle software with technical assistance, creating dependency, and contractors pick the tech stack. Ownership means countries can independently specify requirements, evaluate options, and manage contracts without a donor intermediary.
+6. **Political Ownership** — Is there sustained executive sponsorship and a constituency for digital health beyond a single project champion? Currently digital health lives in a unit that gets reorganized every election cycle. Ownership means a mandate at the ministry level, embedded in health sector plans, with a bureaucratic home that survives political transitions.
+
+These dimensions shift the framing from "handing over systems" (a transaction) to "building country capacity to lead" (a process). Each dimension can be assessed on a maturity spectrum, forming the backbone of the toolkit.
 
 1. Establishes a maturity framework to assess current state vs. target state.
 2. Provides a transition planning guide for partners to responsibly exit within bilateral agreement timeframes.
