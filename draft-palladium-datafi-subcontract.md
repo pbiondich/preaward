@@ -23,7 +23,7 @@ Over the past twenty years, implementing partners built digital health platforms
 
 While these parties did what they could to coordinate their efforts with one another, system 
 
-Ministries were generally friendly to these implementers and appreciated the support, but the implementers remained independent of government control. The "ownership" was the implementer's ownership, not the country's.
+"ownership" was the implementer's ownership, not the country's.
 
 Now bilateral agreements mandate that these systems transition to local ownership — but neither side is fully prepared. The implementer does not have a playbook for responsible exit. The government does not have a framework for what to demand or how to assess readiness to receive. Without shared language, transition becomes a leap into undefined territory, producing either a handoff the government cannot sustain or an indefinite extension of donor dependence that serves neither side.
 
