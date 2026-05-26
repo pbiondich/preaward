@@ -18,6 +18,8 @@ updated: '2026-05-25'
 
 ## Background & Context
 
+Hello Paul... testing!
+
 Every transition of a digital health system from a USG-funded implementing partner to a host country government involves two parties — and these two parties currently have no shared definition of what a successful handoff looks like.
 
 The systems being transitioned today were not designed for the exit they now face. Over the past decade, implementing partners built digital health platforms in partnership with country governments — often in deep consultation with ministries. But the architecture, hosting, system roadmap, local talent pipeline, and operational governance all flowed through the implementer. The ministry was a stakeholder, not the proprietor. Ministries were generally friendly to these implementers and appreciated the support, but the implementers remained independent of government control. The "ownership" was the implementer's ownership, not the country's.
