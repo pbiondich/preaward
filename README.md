@@ -13,15 +13,15 @@ _TBD — this repo is being populated._
 Files in this repo can be edited collaboratively via [Colibri](https://app.get-colibri.com/), a WYSIWYG markdown editor that syncs with GitHub. To open any file from this repo in Colibri, take the GitHub URL and swap the domain:
 
 ```
-GitHub:    github.com/pbiondich/preaward/blob/main/FILENAME.md
-Colibri:   app.get-colibri.com/?room_id=github.com%2Fpbiondich%2Fpreaward%2Fblob%2Fmain%2FFILENAME.md
+GitHub:    https://github.com/pbiondich/preaward/blob/main/FILENAME.md
+Colibri:   https://app.get-colibri.com/?room_id=github.com/pbiondich/preaward/blob/main/FILENAME.md
 ```
 
-Just encode the slashes after `room_id=`.
+Replace `github.com` with `app.get-colibri.com/?room_id=github.com` — that's it.
 
 | File | Colibri Link |
 |------|-------------|
-| Palladium DataFI Subcontract | [Open](https://app.get-colibri.com/?room_id=github.com%2Fpbiondich%2Fpreaward%2Fblob%2Fmain%2Fdraft-palladium-datafi-subcontract.md)
+| Palladium DataFI Subcontract | [Open](https://app.get-colibri.com/?room_id=github.com/pbiondich/preaward/blob/main/draft-palladium-datafi-subcontract.md)
 
 ## Purpose
 
