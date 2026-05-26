@@ -43,7 +43,7 @@ Without a clear, operationalized framework, transition remains an aspiration rat
 Proposed Scope
 GHI will lead the development of a toolkit that:
 
-1. Defines country ownership of digital health systems across multiple dimensions, each can be assessed on a maturity spectrum: 
+1. Defines country ownership of digital health systems across s dimensions, each can be assessed on a maturity spectrum: 
    - **Financial Ownership:** countries funding their own digital health line items rather than relying on donor project budgets. Currently most systems run on externally funded project budgets with expiration dates. Real ownership means ministry budget lines, pooled domestic financing, and transition plans with actual fiscal timelines... much more than a handover date.
    - **Technical Ownership: **do countries have the in-house or local authority and engineering capacity to sustain and evolve their systems? Currently source code is often handed over on a flash drive when a contractor leaves, built with tools nobody in country knows. True technical ownership means open standards, documented architecture, and local talent pipelines.
    - **Governance Ownership: **who sets the roadmap, prioritizes features, and approves standards? Currently donors and implementing partners define the trajectory through RFPs and scoping documents; country officials sign off but don't author. Real ownership means ministry-led technical working groups, national digital health strategies that drive investment, and regulatory authority over the ecosystem.
