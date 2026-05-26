@@ -65,7 +65,7 @@ Most toolkits in global health sit on shelves. The most influential frameworks a
  Primary Audiences
 
 - **Country Governments:** a practical framework for ministries of health to proactively lead the transition process, negotiate equitable terms with partners, and build sustained capacity to direct their digital health agenda independently of donor cycles. Everything in the toolkit is designed from this vantage point.
-- **State Department** — A framework that makes country ownership measurable and actionable, giving GORs and activity leads a credible basis to hold partners accountable and demonstrate the return on investment in country systems.
+- **State Department** framework that makes country ownership measurable and actionable, giving GORs and activity leads a credible basis to hold partners accountable and demonstrate the return on investment in country systems.
 - **Implementing Partners** — Clear expectations for their role in responsible transition. The toolkit defines what a successful exit looks like, giving partners a target state to work toward and a shared language with governments.
 
 A critical design principle: this is a State Department publication, but its north star is simple — would a Ministry of Health find this useful? The toolkit must be credible in Washington, but it must be adopted in country capitals. That means participatory development with the eHealth Leaders Forum, ministries of health, and in-country users — not a desk exercise.
