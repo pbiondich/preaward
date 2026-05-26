@@ -50,12 +50,10 @@ GHI will lead the development of a toolkit that:
    - **Data Ownership** — Who controls access, determines use cases, and benefits from the data? Currently data flows upward to donor reporting requirements; countries see aggregate dashboards but do not control the data architecture. Ownership means national data sovereignty frameworks, the ability to refuse data requests, and infrastructure to use their own data for their own priorities.
    - **Procurement Ownership** — Can the government independently specify, procure, and oversee digital health systems? Currently donors bundle software with technical assistance, creating dependency, and contractors pick the tech stack. Ownership means countries can independently specify requirements, evaluate options, and manage contracts without a donor intermediary.
    - **Political Ownership** — Is there sustained executive sponsorship and a constituency for digital health beyond a single project champion? Currently digital health lives in a unit that gets reorganized every election cycle. Ownership means a mandate at the ministry level, embedded in health sector plans, with a bureaucratic home that survives political transitions.
+2. Provides a transition planning guide for partners to responsibly exit within bilateral agreement timeframes.
+3. Includes practical tools for stakeholder alignment, roadmap development, and progress tracking.
 
-
-1. Provides a transition planning guide for partners to responsibly exit within bilateral agreement timeframes.
-2. Includes practical tools for stakeholder alignment, roadmap development, and progress tracking.
-
-The toolkit will build on existing work — including materials from PATH, Digital Square, and Netsanet Nigussie's previously State Department-approved concept note — to avoid duplication and leverage proven approaches.
+The toolkit will build on existing work — to avoid duplication and leverage proven approaches.
 
 ### Why This Toolkit Will Be Different
 
