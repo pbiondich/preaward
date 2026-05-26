@@ -27,7 +27,7 @@ The HOP25 Data.FI mechanism (Component 1: Rapid Transition to Local Partners) ad
 
 This concept note describes a Digital Health Country Ownership Toolkit that closes that gap. It is a shared framework: one artifact, two use cases, in which both sides assess themselves on the same dimensions, find each other, and plan a transition that works for both. 
 
-Palladium/Data.FI and the Global Health Informatics (GHI) program at Regenstrief Institute to lead development of the toolkit as a State Department publication that operationalizes the transition process and equips all stakeholders with a shared framework.
+Palladium/Data.FI and the Global Health Informatics (GHI) program at the Regenstrief Institute wi to lead development of the toolkit as a State Department publication that operationalizes the transition process and equips all stakeholders with a shared framework.
 
 ---
 
