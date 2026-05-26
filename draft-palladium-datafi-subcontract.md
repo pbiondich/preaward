@@ -64,6 +64,7 @@ Most toolkits in global health sit on shelves. The most influential frameworks a
 
  Primary Audiences
 
+- **State Department: **a framework that makes country ownership measurable and actionable, giving GORs and activity leads a credible basis to hold partners accountable and demonstrate the return on investment in country systems.
 - **Country Governments:** a practical framework for ministries of health to proactively lead the transition process, negotiate equitable terms with partners, and build sustained capacity to direct their digital health agenda independently of donor cycles. Everything in the toolkit is designed from this vantage point.
 - 
 - **Implementing Partners: **clear expectations for their role in responsible transition. The toolkit defines what a successful exit looks like, giving partners a target state to work toward and a shared language with governments.
