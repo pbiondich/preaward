@@ -32,8 +32,6 @@ Palladium/Data.FI and the Global Health Informatics (GHI) program at the Regenst
 ---
 
 The Problem: What Does Country Ownership Mean?
-
-
 - Is ownership about hosting infrastructure?
 - Is it about governance and decision-making authority?
 - Is it about financial sustainability?
