@@ -10,13 +10,18 @@ _TBD — this repo is being populated._
 
 ## Editing in Colibri
 
-Files in this repo can be edited collaboratively via [Colibri](https://app.get-colibri.com/), a WYSIWYG markdown editor that syncs with GitHub. Each file has its own edit link:
+Files in this repo can be edited collaboratively via [Colibri](https://app.get-colibri.com/), a WYSIWYG markdown editor that syncs with GitHub. To open any file from this repo in Colibri, take the GitHub URL and swap the domain:
 
-| File | Colibri Edit Link |
-|------|-------------------|
-| Palladium DataFI Subcontract | [Open in Colibri](https://app.get-colibri.com/?room_id=github.com%2Fpbiondich%2Fpreaward%2Fblob%2Fmain%2Fdraft-palladium-datafi-subcontract.md) |
+```
+GitHub:    github.com/pbiondich/preaward/blob/main/FILENAME.md
+Colibri:   app.get-colibri.com/?room_id=github.com%2Fpbiondich%2Fpreaward%2Fblob%2Fmain%2FFILENAME.md
+```
 
-The URL pattern is: `https://app.get-colibri.com/?room_id=github.com/pbiondich/preaward/blob/main/FILENAME.md` (URL-encode the path after `room_id=`).
+Just encode the slashes after `room_id=`.
+
+| File | Colibri Link |
+|------|-------------|
+| Palladium DataFI Subcontract | [Open](https://app.get-colibri.com/?room_id=github.com%2Fpbiondich%2Fpreaward%2Fblob%2Fmain%2Fdraft-palladium-datafi-subcontract.md)
 
 ## Purpose
 
