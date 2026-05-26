@@ -21,7 +21,7 @@ Every transition of a digital health system from an externally-funded implementi
 
 Over the past twenty years, implementing partners built digital health platforms in partnership with country governments, often in deep consultation with ministries. But the architecture, hosting, system roadmap, local talent pipeline, and operational governance all flowed through the implementer. In short, the ministry was more a stakeholder, than the proprietor. 
 
-While these parties
+While these parties did what they cou
 
 Ministries were generally friendly to these implementers and appreciated the support, but the implementers remained independent of government control. The "ownership" was the implementer's ownership, not the country's.
 
