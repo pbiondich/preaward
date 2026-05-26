@@ -17,7 +17,7 @@ updated: '2026-05-25'
 ---
 
 Background & Context
-Every transition of a digital health system from an externally-funded implementing partner to a host country government involves two parties, neither really have a shared definition of what successful handoffs look like.
+Every transition of a digital health system from an externally-funded implementing partner to a host country government involves two parties, neither realhave a shared definition of what successful handoffs look like.
 
 Over the past twenty years, implementing partners built digital health platforms in partnership with country governments, often in deep consultation with ministries. But the architecture, hosting, system roadmap, local talent pipeline, and operational governance all flowed through the implementer. In short, the ministry was more a stakeholder, than the proprietor.  While these parties did what they could to coordinate their efforts with one another, system "ownership" was the implementer's ownership, not the country's.
 
